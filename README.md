@@ -11,7 +11,6 @@ INSIGHTS 
  
 5. Average income is more for post graduates and for customers in urban areas.  
 
-6. SUVs and Minivans have higher number of Claim frequencies. 
+6. Claim amounts are high for vehicles used for commercial purposes.
 
-
-7. Claim amounts are high for vehicles used for commercial purposes.
+7. SUVs and Minivans have higher number of Claim frequencies. 
